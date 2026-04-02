@@ -24,5 +24,9 @@ Normal · Stress léger · Stress modéré · Stress sévère
 
 ## Statut
 
-🚧 En cours de développement — Phase 1 : Données satellites
+[x] Setup environnement 
+[x] Fondations & Données (Extraction Sentinel-2, 166 lignes de données x 5ans
+[x] Modèle ML (Random forest)
+[ ] Application Android (En cours)
+
 

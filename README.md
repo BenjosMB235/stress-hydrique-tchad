@@ -24,9 +24,12 @@ Normal · Stress léger · Stress modéré · Stress sévère
 
 ## Statut
 
-[x] Setup environnement 
-[x] Fondations & Données (Extraction Sentinel-2, 166 lignes de données x 5ans
-[x] Modèle ML (Random forest)
-[ ] Application Android (En cours)
+* [x] Setup environnement
+* [x] Fondations & Données (Extraction Sentinel-2, 166 lignes de données x 5ans
+* [x] Modèle ML (Random forest)
+* [ ] Application Android (En cours)
 
+## Résultats
+
+![Matrix de confusion](results\confusion_matrix.png)
 

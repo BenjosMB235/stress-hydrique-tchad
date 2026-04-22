@@ -31,5 +31,5 @@ Normal · Stress léger · Stress modéré · Stress sévère
 
 ## Résultats
 
-![Matrix de confusion](results\confusion_matrix.png)
+![Matrix de confusion](results/confusion_matrix.png)
 
